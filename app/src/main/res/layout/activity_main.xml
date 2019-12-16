@@ -24,7 +24,7 @@
         android:text="Sign In" />
 
     <Button
-        android:id="@+id/btnSignOut"
+        android:id="@+id/btnSignUp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Sign Out" />
